@@ -20,7 +20,7 @@ Profile: k.s.shankar2005 <br>
 [![skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/k-s-shankar-169a17259)
 [![skills](https://skillicons.dev/icons?i=github)](https://github.com/Shankar20052005)
 [![skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/just_kira_07/)
-[![skills](https://skillicons.dev/icons?i=discord)](http://discordapp.com/users/crisis07./)
+[![skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/crisis07./)
 
 <!--
 **Shankar20052005/Shankar20052005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
