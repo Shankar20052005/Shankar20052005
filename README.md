@@ -17,12 +17,14 @@
 </div>
 
 ## Coding Profile 👨‍💻
+Profile: k.s.shankar2005 
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=k.s.shankar2005)](https://codeforces.com/profile/k.s.shankar2005)
+
+## Codeforces
 
 Check out my Codeforces profile: [k.s.shankar2005](https://codeforces.com/profile/k.s.shankar2005)
 
-[![Codeforces Badge](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/k.s.shankar2005)
-
+[![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=k.s.shankar2005)(https://img.shields.io/badge/Codeforces-Profile-brightgreen)](https://codeforces.com/profile/k.s.shankar2005)
 
 
 ## Lets Connect 🤝
