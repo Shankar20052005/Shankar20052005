@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<h1 align="center">Hey there, I'm Shankar</h1>
+<h3 align="center">Competitive Programmer 👨‍💻 | Front-end Web Developer 💻</h3>
+
 <!--
 **Shankar20052005/Shankar20052005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
