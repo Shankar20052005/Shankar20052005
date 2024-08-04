@@ -1,7 +1,31 @@
-## Hi there 👋
-
 <h1 align="center">Hey there, I'm Shankar</h1>
 <h3 align="center">Competitive Programmer 👨‍💻 | Front-end Web Developer 💻</h3>
+
+## Tech Stack ✔️
+<div align="center">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,c,java" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+    </a>
+  </p>
+</div>
+
+## Coding Profile 👨‍💻
+[![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=k.s.shankar2005)](https://codeforces.com/profile/k.s.shankar2005)
+
+Check out my Codeforces profile: [k.s.shankar2005](https://codeforces.com/profile/k.s.shankar2005)
+
+[![Codeforces Badge](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/k.s.shankar2005)
+
+
+
+## Lets Connect 🤝
 
 <!--
 **Shankar20052005/Shankar20052005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
