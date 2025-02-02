@@ -16,8 +16,8 @@
 
 ## Coding Profile 👨‍💻
 Profile: k.s.shankar2005 <br>
-[![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=k.s.shankar2005)](https://codeforces.com/profile/k.s.shankar2005)&#9;
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/user0902Nb/)
+[![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=k.s.shankar2005)](https://codeforces.com/profile/k.s.shankar2005)&#9;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/user0902Nb/)&#9;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-green)](https://www.hackerrank.com/profile/k_s_shankar2005)
 
 ## Lets Connect 🤝
